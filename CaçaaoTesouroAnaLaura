@@ -11,8 +11,7 @@
 <body>
     <main>
         <div class="passo ativo" id="passo-0">
-            <img src="img/cenario-passo0.png" alt="">
-            <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+            <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobrium mapa de uma  antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
             <button class="btn-proximo" data-proximo="1">Rio grande do sul</button>
             <button class="btn-proximo" data-proximo="2">São Paulo</button>
         </div>
@@ -33,7 +32,7 @@
         </div>
 
         <div class="passo" id="passo-4">
-            <img src="img/cenario-passo4-voltar-casa.png" alt="imagem voltando para casa e desitindo da aventura">
+            <img src="img/são paulo alt="imagem da cidade de são paulo aventura">
             <p>Você decide que tem que ir até o fim e não pode voltar para trás mas sempre se pergunta o que teria encontrado.</p> </div>
 
         <div class="passo" id="passo-5">
@@ -70,7 +69,7 @@
         </div>
 
         <div class="passo" id="passo-11">
-            <img src="img/cenario-passo11-cidade-perdida.png" alt="encontrando uma cidade maravilhosa perdida no Amazonas">
+            <img src="img/cemiterio alt="ele irá para o cemiterio encontrar um enigma">
             <p>Dentro da cidade perdida, você achará uma reserva e decide se dedicar e preservar esta reserva</p>
         </div>
         <div class="passo" id="passo-12">
